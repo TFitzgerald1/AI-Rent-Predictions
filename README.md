@@ -35,8 +35,8 @@ The predicted rent prices for the year 2024 can be found in the [Project Predict
 
 Further explanation of the results of the project are discuessed in the [Final Report](https://github.com/TFitzgerald1/AI-Rent-Predictions/blob/693f20a2d7704bb16bb3bf3741541134989aec39/Project%20Predictions.xlsx). Both models would start with a high MAE value but quickly converge to an MAE of approximately $49 (for perceptron) and $39-$44 (for LSTM).
 
-![image](https://github.com/user-attachments/assets/c6c838f8-58f5-43fc-9558-c9104daa6781)
+![Untitled](https://github.com/user-attachments/assets/2ee8061a-4dea-4a03-b717-b30dc95a01a2)
 
-![image](https://github.com/user-attachments/assets/3c92e5b0-796b-4224-95c7-182b1a4f263c)
+![Untitled-1](https://github.com/user-attachments/assets/c35f3b37-fd89-4319-b754-2e29456e60e9)
 
-![image](https://github.com/user-attachments/assets/1cf36bf5-3acf-4917-a54e-91ad6ef4f51b)
+![Untitled](https://github.com/user-attachments/assets/8f13bb3d-71b7-462e-88df-7b7a138f08e7)
