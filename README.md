@@ -4,7 +4,7 @@ A repository of the work done for my Deep Learning class's final project.
 ## Dataset
 Originally, I was going to use a dataset from the Research & Analytics Group at the Atlanta Regional Commission using information published by the US Census Bureau. This did not work due to the Research & Analytics Group only posting complete data for the years 2019, 2020, and 2021.
 
-I was advised by my profressor to use a different dataset, one encapsulating a larger timespan. After researching and consulting my professor, this project utilized a dataset collected from (RentData.org)[https://www.rentdata.org]. This website is an independent organization not affiliated with any governmental agency. The website features interactive maps and rent market analysis for public use based on the Fair Market Rent rate published by the Department of Housing and Urban Development. 
+I was advised by my profressor to use a different dataset, one encapsulating a larger timespan. After researching and consulting my professor, this project utilized a dataset collected from [RentData.org](https://www.rentdata.org). This website is an independent organization not affiliated with any governmental agency. The website features interactive maps and rent market analysis for public use based on the Fair Market Rent rate published by the Department of Housing and Urban Development. 
 
 Information from this website was manually collected into a CSV file that model would be able to read. The collected information featured the average rent price for a studio, 1-bedroom, 2-bedroom, 3-bedroom, and 4-bedroom apartment for a given year in a county.
 
@@ -31,9 +31,9 @@ The models both utilized a mean absolute error (MAE) as their accuracy metrics. 
 The results of the models were measure using the Mean Absolute Percentage Error (MAPE), which is a percentage equivalent of the MAE. 
 
 ## Results
-The predicted rent prices for the year 2024 can be found in the [Project Predictions](AI-Rent-Predictions/Final Report.pdf).
+The predicted rent prices for the year 2024 can be found in the [Project Predictions](Project Predictions.xlsx).
 
-Further explanation of the results of the project are discuessed in the (Final Report)[https://github.com/TFitzgerald1/AI-Rent-Predictions/blob/693f20a2d7704bb16bb3bf3741541134989aec39/Project%20Predictions.xlsx]. Both models would start with a high MAE value but quickly converge to an MAE of approximately $49 (for perceptron) and $39-$44 (for LSTM).
+Further explanation of the results of the project are discuessed in the [Final Report](https://github.com/TFitzgerald1/AI-Rent-Predictions/blob/693f20a2d7704bb16bb3bf3741541134989aec39/Project%20Predictions.xlsx). Both models would start with a high MAE value but quickly converge to an MAE of approximately $49 (for perceptron) and $39-$44 (for LSTM).
 
 ![image](https://github.com/user-attachments/assets/c6c838f8-58f5-43fc-9558-c9104daa6781)
 
