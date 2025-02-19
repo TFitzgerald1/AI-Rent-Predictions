@@ -31,9 +31,9 @@ The models both utilized a mean absolute error (MAE) as their accuracy metrics. 
 The results of the models were measure using the Mean Absolute Percentage Error (MAPE), which is a percentage equivalent of the MAE. 
 
 ## Results
-The predicted rent prices for the year 2024 can be found in the (Project Predictions)[[Project Predictions.xlsx](https://github.com/TFitzgerald1/AI-Rent-Predictions/blob/693f20a2d7704bb16bb3bf3741541134989aec39/Project%20Predictions.xlsx)].
+The predicted rent prices for the year 2024 can be found in the (Project Predictions)[https://github.com/TFitzgerald1/AI-Rent-Predictions/blob/693f20a2d7704bb16bb3bf3741541134989aec39/Project%20Predictions.xlsx].
 
-Further explanation of the results of the project are discuessed in the (Final Report)[Final Report.pdf]. Both models would start with a high MAE value but quickly converge to an MAE of approximately $49 (for perceptron) and $39-$44 (for LSTM).
+Further explanation of the results of the project are discuessed in the (Final Report)[https://github.com/TFitzgerald1/AI-Rent-Predictions/blob/693f20a2d7704bb16bb3bf3741541134989aec39/Final%20Report.pdf]. Both models would start with a high MAE value but quickly converge to an MAE of approximately $49 (for perceptron) and $39-$44 (for LSTM).
 
 ![image](https://github.com/user-attachments/assets/c6c838f8-58f5-43fc-9558-c9104daa6781)
 
